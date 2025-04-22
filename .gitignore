@@ -1,0 +1,24 @@
+# Entornos virtuales
+myPT2/
+PryTrm2_CNN/
+
+# Carpetas  pesadas o temporales
+Ejecucion/
+wav_aves/
+espectros_aves/
+
+# Modelos no necesarios
+modelo_CNNaves_EfficientNetB0.keras
+modelo_CNNaves_ResNet50.keras
+
+# Archivos de Python no necesarios
+__pycache__/
+*.pyc
+*.pyo
+*.log
+
+# Archivos temporales del sistema o editores
+*.tmp
+*.swp
+.DS_Store
+Thumbs.db
