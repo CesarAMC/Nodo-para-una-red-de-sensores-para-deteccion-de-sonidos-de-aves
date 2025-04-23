@@ -5,7 +5,6 @@ PryTrm2_CNN/
 # Carpetas  pesadas o temporales
 Ejecucion/
 wav_aves/
-espectros_aves/
 
 # Modelos no necesarios
 modelo_CNNaves_EfficientNetB0.keras
